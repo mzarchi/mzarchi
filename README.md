@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=mzarchi)
 ### Hi dear friend
-🔭 I’m currently working on [Telegram](https://github.com/mzarchi/telegram)
+Serious and hard focus on [Telegram](https://github.com/mzarchi/telegram)
 <!--
 **mzarchi/mzarchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
