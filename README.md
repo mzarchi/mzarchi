@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge) <br>
 Serious and hard focus on [apitter-service](https://github.com/mzarchi/apitter-service)
 <!--
 **mzarchi/mzarchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
