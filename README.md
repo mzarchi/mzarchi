@@ -1,3 +1,6 @@
+## My Github stats:
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=php,py,django,git," )](https://skillicons.dev)
 
