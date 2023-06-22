@@ -1,6 +1,3 @@
-## My Github visit page:
-![](https://komarev.com/ghpvc/?username=mzarchi&style=for-the-badge)
-
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=php,py,django,git," )](https://skillicons.dev)
 
