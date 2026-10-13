@@ -1,5 +1,5 @@
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=php,py,django,git," )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,py,django,git,rust," )](https://skillicons.dev)
 
 ## My GitHub Stats
 
