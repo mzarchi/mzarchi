@@ -121,10 +121,6 @@ A Rust-based project focused on building the foundation for Telegram data collec
 
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mzarchi&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=BC8CFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
-
-</div>
-
 ---
 
 <div align="center">
